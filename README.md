@@ -16,4 +16,5 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Vyshnavi-V/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0485-max-consecutive-ones](https://github.com/Vyshnavi-V/Leetcode/tree/master/0485-max-consecutive-ones) |
 <!---LeetCode Topics End-->
