@@ -1,0 +1,17 @@
+class Solution {
+    public void moveZeroes(int[] nums) {
+        var length = nums.length;    
+        int left=0;
+            for(int right=0;right<length;right++){
+                if(nums[right]!=0){
+                    var temp=nums[left];
+                    nums[left]=nums[right];
+                    nums[right]=temp;
+                    left++;
+                }
+
+            }
+        
+        System.out.println(nums);
+    }
+}
