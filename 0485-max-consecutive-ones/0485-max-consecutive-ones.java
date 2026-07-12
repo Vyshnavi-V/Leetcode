@@ -8,11 +8,11 @@ class Solution {
             if(nums[i]==1){
                 window_count++;
             }
-        max_output=Math.max(max_output,window_count);
-        if(nums[i]==0){
+            else{
+                max_output=Math.max(max_output,window_count);
                 window_count=0;
             }
         }
-        return max_output;
+        return Math.max(max_output,window_count);
     }
 }
