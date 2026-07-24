@@ -52,6 +52,10 @@
 | [0724-find-pivot-index](https://github.com/Vyshnavi-V/Leetcode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vyshnavi-V/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vyshnavi-V/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Kadane's Algorithm
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Vyshnavi-V/Leetcode/tree/master/0053-maximum-subarray) |
 ## Binary Search
 |  |
 | ------- |
