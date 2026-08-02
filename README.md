@@ -35,6 +35,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vyshnavi-V/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Vyshnavi-V/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Vyshnavi-V/Leetcode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Vyshnavi-V/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Vyshnavi-V/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Vyshnavi-V/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Sliding Window
@@ -44,12 +45,12 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Vyshnavi-V/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vyshnavi-V/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0485-max-consecutive-ones](https://github.com/Vyshnavi-V/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0567-permutation-in-string](https://github.com/Vyshnavi-V/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Vyshnavi-V/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Vyshnavi-V/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Vyshnavi-V/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vyshnavi-V/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vyshnavi-V/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
-
 ## Prefix Sum
 |  |
 | ------- |
@@ -89,10 +90,10 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vyshnavi-V/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Vyshnavi-V/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Vyshnavi-V/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Vyshnavi-V/Leetcode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Vyshnavi-V/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vyshnavi-V/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vyshnavi-V/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
-
 ## Math
 |  |
 | ------- |
@@ -116,7 +117,7 @@
 | [0125-valid-palindrome](https://github.com/Vyshnavi-V/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Vyshnavi-V/Leetcode/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vyshnavi-V/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Vyshnavi-V/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Vyshnavi-V/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Vyshnavi-V/Leetcode/tree/master/0680-valid-palindrome-ii) |
-
 <!---LeetCode Topics End-->
