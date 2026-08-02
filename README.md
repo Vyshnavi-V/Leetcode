@@ -49,6 +49,7 @@
 | [0904-fruit-into-baskets](https://github.com/Vyshnavi-V/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vyshnavi-V/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vyshnavi-V/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [Longest Substring with K Uniques](https://github.com/Vyshnavi-V/Leetcode/tree/main/GeeksforGeeks/Longest%20Substring%20with%20K%20Uniques) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0904-fruit-into-baskets](https://github.com/Vyshnavi-V/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vyshnavi-V/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vyshnavi-V/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [Longest Substring with K Uniques](https://github.com/Vyshnavi-V/Leetcode/tree/main/GeeksforGeeks/Longest%20Substring%20with%20K%20Uniques) |
 ## Math
 |  |
 | ------- |
@@ -116,4 +118,5 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vyshnavi-V/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Vyshnavi-V/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Vyshnavi-V/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [Longest Substring with K Uniques](https://github.com/Vyshnavi-V/Leetcode/tree/main/GeeksforGeeks/Longest%20Substring%20with%20K%20Uniques) |
 <!---LeetCode Topics End-->
