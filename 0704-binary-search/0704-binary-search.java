@@ -42,4 +42,5 @@ class Solution {
             else{
                 return myFun(nums,left,mid-1,target);
             }
+    }
 */
