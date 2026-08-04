@@ -70,6 +70,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Vyshnavi-V/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vyshnavi-V/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vyshnavi-V/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Vyshnavi-V/Leetcode/tree/master/0704-binary-search) |
@@ -99,6 +100,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Vyshnavi-V/Leetcode/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/Vyshnavi-V/Leetcode/tree/master/0523-continuous-subarray-sum) |
 ## Divide and Conquer
 |  |
@@ -122,4 +124,8 @@
 | [0567-permutation-in-string](https://github.com/Vyshnavi-V/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Vyshnavi-V/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Vyshnavi-V/Leetcode/tree/master/0680-valid-palindrome-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Vyshnavi-V/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
