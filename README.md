@@ -7,6 +7,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vyshnavi-V/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Vyshnavi-V/Leetcode/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Vyshnavi-V/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vyshnavi-V/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Vyshnavi-V/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Vyshnavi-V/Leetcode/tree/master/0075-sort-colors) |
@@ -71,6 +72,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Vyshnavi-V/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vyshnavi-V/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Vyshnavi-V/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Vyshnavi-V/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
