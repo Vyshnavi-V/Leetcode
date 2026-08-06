@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/Vyshnavi-V/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Vyshnavi-V/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Vyshnavi-V/Leetcode/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/Vyshnavi-V/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Vyshnavi-V/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vyshnavi-V/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vyshnavi-V/Leetcode/tree/master/0162-find-peak-element) |
@@ -136,4 +137,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Vyshnavi-V/Leetcode/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Vyshnavi-V/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
