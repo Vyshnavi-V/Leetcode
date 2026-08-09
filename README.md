@@ -138,6 +138,7 @@
 | [0567-permutation-in-string](https://github.com/Vyshnavi-V/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Vyshnavi-V/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Vyshnavi-V/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1108-defanging-an-ip-address](https://github.com/Vyshnavi-V/Leetcode/tree/master/1108-defanging-an-ip-address) |
 ## Newton's Method
 |  |
 | ------- |
