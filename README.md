@@ -28,6 +28,7 @@
 | [0704-binary-search](https://github.com/Vyshnavi-V/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Vyshnavi-V/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Vyshnavi-V/Leetcode/tree/master/0724-find-pivot-index) |
+| [0875-koko-eating-bananas](https://github.com/Vyshnavi-V/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Vyshnavi-V/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vyshnavi-V/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vyshnavi-V/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -88,6 +89,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Vyshnavi-V/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Vyshnavi-V/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Vyshnavi-V/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/Vyshnavi-V/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vyshnavi-V/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
