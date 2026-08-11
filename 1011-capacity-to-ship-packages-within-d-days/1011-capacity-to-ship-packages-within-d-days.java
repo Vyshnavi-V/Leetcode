@@ -8,7 +8,7 @@ class Solution {
         }
         int low = max;
         int high = sum;
-        int ans=high;
+        int ans=0;
         while(low<=high){
             int mid=low+(high-low)/2;
             if(myFun(weights,days,mid)){
