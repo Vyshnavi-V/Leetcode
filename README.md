@@ -135,6 +135,7 @@
 | [0069-sqrtx](https://github.com/Vyshnavi-V/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Vyshnavi-V/Leetcode/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/Vyshnavi-V/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [2235-add-two-integers](https://github.com/Vyshnavi-V/Leetcode/tree/master/2235-add-two-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
