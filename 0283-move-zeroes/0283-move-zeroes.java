@@ -1,17 +1,16 @@
 class Solution {
     public void moveZeroes(int[] nums) {
-        var length = nums.length;    
+        // TWO POINTER APPROACH
+        int length=nums.length;
         int left=0;
-            for(int right=0;right<length;right++){
-                if(nums[right]!=0){
-                    var temp=nums[left];
-                    nums[left]=nums[right];
-                    nums[right]=temp;
-                    left++;
-                }
+        for(int right=0;right<length;right++){
+            if(nums[right]!=0){
+                int temp=nums[right];
+                nums[right]=nums[left];
+                nums[left]=temp;
+                left++;
 
             }
-        
-        System.out.println(nums);
+        }
     }
 }
