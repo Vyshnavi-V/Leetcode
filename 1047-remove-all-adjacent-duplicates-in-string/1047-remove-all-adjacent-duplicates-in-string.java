@@ -1,22 +1,18 @@
 class Solution {
     public String removeDuplicates(String s) {
-        // STACK - UNDO OPERATION PATTERN
-        Deque<Character> stack = new ArrayDeque<>();
-        for(char ch:s.toCharArray()){
-            // If current character matches stack top, remove the duplicate pair
-            if(!stack.isEmpty() && ch==stack.peek() ){
-                stack.pop();
+        // Using StringBuilder as a stack
+         StringBuilder sb = new StringBuilder();
+         for(char ch:s.toCharArray()){ 
+            // Get index of last character from stringbuilder
+            int length = sb.length()-1;
+            // If last character of stringbuilder is same as current character of s 
+            if(length>=0 && sb.charAt(length)==ch){
+                sb.deleteCharAt(length); // Remove the last character
             }
-            else{
-                // Otherwise, add the character to stack
-                stack.push(ch);
-            }
-        }
-        StringBuilder str = new StringBuilder();
-        // Pop characters and insert at beginning because stack gives them in reverse order
-        while(!stack.isEmpty()){
-            str.insert(0,stack.pop());
-        }
-    return str.toString();
+            else{  
+                sb.append(ch); // Add current character at the end
+            } 
+         }
+    return sb.toString(); // Convert StringBuilder to String
     }
 }
