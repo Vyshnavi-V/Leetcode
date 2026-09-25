@@ -1,26 +1,23 @@
 class Solution {
     public String makeGood(String s) {
-        // Stack Undo Pattern
-        Deque<Character> stack = new ArrayDeque<>();
-        for(char ch:s.toCharArray()){
-            // If current character is the same letter with opposite case
-            if(!stack.isEmpty() && Math.abs(ch-stack.peek())==32){
-                stack.pop(); // Remove the bad pair
-             }
-             else{
-                stack.push(ch); // Otherwise, push the character to the stack
-             }
-        }
+        // StringBuilder as Stack
         StringBuilder sb = new StringBuilder();
-        // Pop characters and insert at beginning to maintain original order
-        while(!stack.isEmpty()){
-            sb.insert(0,stack.pop());
+        for(char ch:s.toCharArray()){
+            int length = sb.length()-1;
+            // Current ch and the last element in stringbuilder are the same letter with opposite case.
+            if(length>=0 && Math.abs(ch - sb.charAt(length))==32){
+                sb.deleteCharAt(length);
+            }
+            else{
+                sb.append(ch); // If No match, append the current character to the string builder
+            }
+
         }
     return sb.toString();
     }
 }
 
-/*Math.abs(ch - stack.peek()) == 32
+/*Math.abs(ch - sb.charAt(length)) == 32
        ASCII difference between upper and lower case = 32
        'a' = 97    'A' = 65
        'b' = 98    'B' = 66
