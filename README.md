@@ -174,6 +174,7 @@
 | [0844-backspace-string-compare](https://github.com/Vyshnavi-V/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vyshnavi-V/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Vyshnavi-V/Leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1544-make-the-string-great](https://github.com/Vyshnavi-V/Leetcode/tree/master/1544-make-the-string-great) |
 ## Newton's Method
 |  |
 | ------- |
@@ -207,6 +208,7 @@
 | [0844-backspace-string-compare](https://github.com/Vyshnavi-V/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/Vyshnavi-V/Leetcode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vyshnavi-V/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/Vyshnavi-V/Leetcode/tree/master/1544-make-the-string-great) |
 ## Monotonic Stack
 |  |
 | ------- |
