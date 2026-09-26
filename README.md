@@ -175,6 +175,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vyshnavi-V/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/Vyshnavi-V/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1544-make-the-string-great](https://github.com/Vyshnavi-V/Leetcode/tree/master/1544-make-the-string-great) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Vyshnavi-V/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Newton's Method
 |  |
 | ------- |
@@ -209,6 +210,7 @@
 | [0901-online-stock-span](https://github.com/Vyshnavi-V/Leetcode/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vyshnavi-V/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Vyshnavi-V/Leetcode/tree/master/1544-make-the-string-great) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Vyshnavi-V/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -238,4 +240,5 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/Vyshnavi-V/Leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Vyshnavi-V/Leetcode/tree/master/0844-backspace-string-compare) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Vyshnavi-V/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
