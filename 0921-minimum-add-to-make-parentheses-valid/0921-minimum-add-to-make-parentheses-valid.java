@@ -1,21 +1,24 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        // Stack Pattern
-        Deque<Character> stack = new ArrayDeque<>();
+        // Optimized Space Complexity from O(N) to O(1)  using variables instead of Stack
+        int openCount=0,closeCount=0;
         for(char ch:s.toCharArray()){
-            // Check if current ')' pairs with a previously unmatched '(' on top
-            if(!stack.isEmpty() && (ch==')' && stack.peek()=='(')){
-                stack.pop();
-            }
-            else{
-                stack.push(ch);
-            }
+           if(ch=='('){
+            openCount++; // An opening bracket is available.
+           }
+           else if(ch==')' && openCount>0){
+            openCount--; // Incoming ')' successfully matches and closes an earlier '('
+           }
+           else{ 
+            closeCount++; // Incoming ')' has no available '(' to pair with
+           }
         }
-    // Each leftover character in the stack requires exactly one added counterpart
-    return stack.size(); 
+    // missing ')' for leftover '(' + missing '(' for premature ')'
+    return openCount+closeCount;
     }
 }
+
 /* Complexity:
-     Time Complexity:  O(N) — Single pass over the string; push and pop operate in O(1) time.
-     Space Complexity: O(N) — In the worst-case (no matching pairs, e.g., "((((" or "))))" the stack stores all N characters.
+     Time Complexity:  O(N) — Single linear scan over the string of length N.
+     Space Complexity: O(1) — Constant extra space; eliminates O(N) stack memory overhead.
 */
