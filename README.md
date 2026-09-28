@@ -155,6 +155,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vyshnavi-V/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/Vyshnavi-V/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Vyshnavi-V/Leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Vyshnavi-V/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Vyshnavi-V/Leetcode/tree/master/0509-fibonacci-number) |
@@ -165,6 +166,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vyshnavi-V/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Vyshnavi-V/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Vyshnavi-V/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Vyshnavi-V/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Vyshnavi-V/Leetcode/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/Vyshnavi-V/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/Vyshnavi-V/Leetcode/tree/master/0344-reverse-string) |
@@ -205,6 +207,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vyshnavi-V/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Vyshnavi-V/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/Vyshnavi-V/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Vyshnavi-V/Leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Vyshnavi-V/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -252,6 +255,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vyshnavi-V/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Vyshnavi-V/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Vyshnavi-V/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vyshnavi-V/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
