@@ -208,6 +208,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vyshnavi-V/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vyshnavi-V/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0155-min-stack](https://github.com/Vyshnavi-V/Leetcode/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/Vyshnavi-V/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/Vyshnavi-V/Leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Vyshnavi-V/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -240,6 +241,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Vyshnavi-V/Leetcode/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/Vyshnavi-V/Leetcode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
