@@ -40,6 +40,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Vyshnavi-V/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vyshnavi-V/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Vyshnavi-V/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Vyshnavi-V/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vyshnavi-V/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vyshnavi-V/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Vyshnavi-V/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -222,6 +223,7 @@
 | [0901-online-stock-span](https://github.com/Vyshnavi-V/Leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vyshnavi-V/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vyshnavi-V/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Vyshnavi-V/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/Vyshnavi-V/Leetcode/tree/master/1544-make-the-string-great) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Vyshnavi-V/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
@@ -247,6 +249,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Vyshnavi-V/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vyshnavi-V/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/Vyshnavi-V/Leetcode/tree/master/0901-online-stock-span) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/Vyshnavi-V/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Data Stream
 |  |
 | ------- |
