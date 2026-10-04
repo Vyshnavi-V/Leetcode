@@ -1,46 +1,37 @@
 class CustomStack {
-    // Stack Design BruteForce Approach
-    Stack<Integer> stack = new Stack<>();
-    int max = 0;
+    // Approach: Direct Array Implementation with Pointer instead of using stack data structure
+    private int[] arr;
+    private int max;
+    private int index=-1;
     public CustomStack(int maxSize) {
         max=maxSize;
+        arr = new int[max];
+        this.index=index; // Points to the current top element (-1 means empty)
     }
     
-    public void push(int x) {
-        // Adds x to the top of the stack if the stack has not reached maxSize.
-        if(stack.size()<max){
-            stack.push(x);
+    public void push(int x) { // Time Complexity: O(1)
+        // Pushes x to the array(stack) if capacity has not been reached
+        if(index+1 < max){
+            index++;
+            arr[index]=x;
         }
     }
     
-    public int pop() {
-        // Deletes and returns the top of the stack, or -1 if the stack is empty.
-        if(!stack.isEmpty()){
-            return stack.pop();
+    public int pop() { // Time Complexity: O(1)
+        //  returns the top of the array (stack), or -1 if empty.
+        if(index!=-1){
+            int pop=arr[index];
+            index--;
+        return pop;
         }
     return -1;
     }
-    List<Integer> list = new ArrayList<>();
-    public void increment(int k, int val) {
-        // Clear old items from previous increment calls
-        list.clear();
-        // Traversing java.util.Stack naturally reads from BOTTOM to TOP
-        for(int i:stack){
-            list.add(i);
-        }
-        int count=0;
-        // Increment
-        while(count<k && count<list.size()){
-            list.set(count,list.get(count)+val);
-        count++;
-        }
-        // Empty the original stack completely
-        while(!stack.isEmpty()){
-            stack.pop();
-        }
-        // Push the updated values back into the stack from bottom to top
-        for(int i:list){
-            stack.push(i);
+    
+    public void increment(int k, int val) { // Time Complexity: O(min(k, size))
+        // Increments the bottom k elements of the stack by val.
+        int limit = Math.min(k,index+1);
+        for(int i=0;i<limit;i++){
+            arr[i]=arr[i]+val;
         }
     }
 }
@@ -52,12 +43,3 @@ class CustomStack {
  * int param_2 = obj.pop();
  * obj.increment(k,val);
  */
-
- /*
- * Complexity:
-     Time Complexity:
-        push(x): O(1)
-        pop():   O(1)
-        increment(k, val): O(N) where N is the current number of elements in the stack.
-        Space Complexity: O(N) auxiliary space used by the temporary list buffer.
-  */ 
