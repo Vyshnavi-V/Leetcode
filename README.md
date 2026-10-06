@@ -121,6 +121,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vyshnavi-V/Leetcode/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/Vyshnavi-V/Leetcode/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/Vyshnavi-V/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vyshnavi-V/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Hash Table
@@ -172,6 +173,7 @@
 | [0227-basic-calculator-ii](https://github.com/Vyshnavi-V/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/Vyshnavi-V/Leetcode/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/Vyshnavi-V/Leetcode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Vyshnavi-V/Leetcode/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Vyshnavi-V/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Vyshnavi-V/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Vyshnavi-V/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -214,6 +216,7 @@
 | [0227-basic-calculator-ii](https://github.com/Vyshnavi-V/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Vyshnavi-V/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Vyshnavi-V/Leetcode/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Vyshnavi-V/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Vyshnavi-V/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vyshnavi-V/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Vyshnavi-V/Leetcode/tree/master/0735-asteroid-collision) |
@@ -229,6 +232,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Vyshnavi-V/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Vyshnavi-V/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vyshnavi-V/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Vyshnavi-V/Leetcode/tree/master/0739-daily-temperatures) |
