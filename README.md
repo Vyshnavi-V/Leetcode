@@ -30,6 +30,7 @@
 | [0523-continuous-subarray-sum](https://github.com/Vyshnavi-V/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Vyshnavi-V/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/Vyshnavi-V/Leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Vyshnavi-V/Leetcode/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/Vyshnavi-V/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Vyshnavi-V/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Vyshnavi-V/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -264,6 +265,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Vyshnavi-V/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vyshnavi-V/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Vyshnavi-V/Leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Vyshnavi-V/Leetcode/tree/master/0641-design-circular-deque) |
 | [0901-online-stock-span](https://github.com/Vyshnavi-V/Leetcode/tree/master/0901-online-stock-span) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Vyshnavi-V/Leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Data Stream
@@ -289,8 +291,10 @@
 | [0225-implement-stack-using-queues](https://github.com/Vyshnavi-V/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vyshnavi-V/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Vyshnavi-V/Leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Vyshnavi-V/Leetcode/tree/master/0641-design-circular-deque) |
 ## Linked List
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Vyshnavi-V/Leetcode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Vyshnavi-V/Leetcode/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
