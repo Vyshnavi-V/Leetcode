@@ -1,26 +1,47 @@
 class Solution {
     public int timeRequiredToBuy(int[] tickets, int k) {
-        // Queue Pattern
-        int size=tickets.length;
-        int front=0;
-        int count=0;
-        // Loop runs until person k has bought all their needed tickets
-        while(tickets[k]>0){
-            // Person has already bought all their tickets; skip them
-            if(tickets[front]==0){
-                front=(front+1)%size; // Skip this person and move to the next person
+        // Approach 2 (Previous Approach - Queue)
+        int count=0; // Stores the total time required to finish buying tickets
+        for(int i=0;i<tickets.length;i++){
+             // People before or at position k
+            if(i<=k){
+                // These people get a chance to buy tickets in every round until person k finishes.They can buy at most tickets[k] tickets.
+                count+=Math.min(tickets[i],tickets[k]);
             }
+            // People after position k
             else{
-                tickets[front]=tickets[front]-1; // Sell one ticket to the current person
-                front=(front+1)%size; // Move to the next person in circular order
-                count++; // Increment time because one ticket was purchased
+                // The queue stops immediately when person k buys their final ticket. So people after k get only tickets[k] - 1 rounds.
+                count+=Math.min(tickets[i],tickets[k]-1);
             }
         }
-
-    return count;
+    return count;  // Return the total number of seconds taken
     }
 }
-// Complexity:
-// Time Complexity:  O(N * M), where N = tickets.length and M = tickets[k].
-//                   In the worst case, we cycle through the line M times.
-//  Space Complexity: O(1) auxiliary space as modifications happen in-place.
+
+/* Notes
+ *  Why Two Separate Rules?
+ *    Imagine tickets[k] = 3 rounds of buying:
+ * 
+ *    - Case A: People ahead of or at k (i <= k)
+ *      They get a turn in EVERY round person k participates in:
+ *      Round 1, Round 2, Round 3.
+ *      -> If someone wants 2 tickets, they buy 2.
+ *      -> If someone wants 10 tickets, they only get to buy 3 before k leaves.
+ *      Formula: Math.min(tickets[i], tickets[k])
+ * 
+ *    - Case B: People behind k (i > k)
+ *      They only get a turn if person k has NOT finished yet.
+ *      In person k's final round (Round 3), person k buys their ticket, 
+ *      the condition is met, and the queue IMMEDIATELY STOPS.
+ *      People behind k never get a turn in that final round!
+ *      They participate in at most (tickets[k] - 1) rounds.
+ *      Formula: Math.min(tickets[i], tickets[k] - 1)
+ * 
+ * ============================================================================
+ * COMPLEXITY ANALYSIS:
+ * ============================================================================
+ * - Time Complexity:  O(N), where N is tickets.length.
+ *                     Single pass through the array with O(1) arithmetic operations.
+ * - Space Complexity: O(1) auxiliary space.
+ *                     Operates strictly using primitive variables without extra buffers.
+ */
