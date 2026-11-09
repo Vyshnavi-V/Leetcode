@@ -46,6 +46,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vyshnavi-V/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Vyshnavi-V/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Vyshnavi-V/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Vyshnavi-V/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vyshnavi-V/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -277,6 +278,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/Vyshnavi-V/Leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/Vyshnavi-V/Leetcode/tree/master/0844-backspace-string-compare) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Vyshnavi-V/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Vyshnavi-V/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Bracket Sequences
 |  |
@@ -292,6 +294,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Vyshnavi-V/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Vyshnavi-V/Leetcode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Vyshnavi-V/Leetcode/tree/master/0641-design-circular-deque) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Vyshnavi-V/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Linked List
 |  |
 | ------- |
